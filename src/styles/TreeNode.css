@@ -1,0 +1,22 @@
+.treeContainer {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .treeNode {
+    cursor: pointer;
+    padding: 0.75rem 1.25rem;
+  }
+  .treeEl{
+    display: flex;
+  }
+  .treeToggler.active {
+    transform: rotate(90deg);
+  }
+  .inpField{
+    max-width: 100px;
+  }
+  #applyBtn{
+    margin-left: 3px;
+    padding: 3px 5px;
+  }
