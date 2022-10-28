@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mcc_test/static/css/main.02e2bc6e.css",
+    "main.js": "/mcc_test/static/js/main.23e46c85.js",
+    "index.html": "/mcc_test/index.html",
+    "main.02e2bc6e.css.map": "/mcc_test/static/css/main.02e2bc6e.css.map",
+    "main.23e46c85.js.map": "/mcc_test/static/js/main.23e46c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e2bc6e.css",
+    "static/js/main.23e46c85.js"
+  ]
+}
